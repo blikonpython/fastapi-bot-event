@@ -1,0 +1,8 @@
+{
+    "action": {
+        "name": "showMessage",
+        "parameters": {
+            "message": "Error al regitrar los datos"
+        }
+    }
+}
