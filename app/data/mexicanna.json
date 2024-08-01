@@ -254,7 +254,7 @@
                                                     "action": {
                                                         "name": "submit",
                                                         "parameters": {
-                                                            "endpoint": "https://site",
+                                                            "endpoint": "/api/items",
                                                             "data": [
                                                                 {
                                                                     "id": "04ff5558-f676-4632-acd3-179b6b34bglj",
